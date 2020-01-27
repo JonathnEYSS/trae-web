@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ec4a2e94aa36280ec550a334790399a",
+    "revision": "6062c0508ec3cb9384af6735483dec9c",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "b756f4ae690acb3cef57",
+    "revision": "1344e5eea6f11cbd5d13",
     "url": "/static/css/main.c57444b7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.faafbc2b.chunk.js.LICENSE"
   },
   {
-    "revision": "b756f4ae690acb3cef57",
-    "url": "/static/js/main.8d905e33.chunk.js"
+    "revision": "1344e5eea6f11cbd5d13",
+    "url": "/static/js/main.8b09829f.chunk.js"
   },
   {
     "revision": "c5d0a3710c65c384b7dd",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sellito-01.807fd1e7.png"
   },
   {
-    "revision": "35f492b78f608825083c7094f2d3a0fe",
-    "url": "/static/media/signal.35f492b7.png"
+    "revision": "53dbbedba8348f52bcb52c03464d178e",
+    "url": "/static/media/signal.53dbbedb.png"
   },
   {
     "revision": "94b9d5a7dbfafddccc90d68611c2350e",
