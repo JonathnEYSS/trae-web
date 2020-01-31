@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80fe1eae3177a54f20ed76e74f2e5a13",
+    "revision": "9a6e2a9223b921fe81e3fe11496154ab",
     "url": "/index.html"
   },
   {
-    "revision": "64bfd8058a41d54c7b0d",
+    "revision": "91188b20820340bab982",
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "cd74cf07dc3c8bda9274",
-    "url": "/static/css/main.4c1b46ff.chunk.css"
+    "revision": "22452650e0b12183c239",
+    "url": "/static/css/main.fa863fdb.chunk.css"
   },
   {
-    "revision": "64bfd8058a41d54c7b0d",
-    "url": "/static/js/2.faafbc2b.chunk.js"
+    "revision": "91188b20820340bab982",
+    "url": "/static/js/2.5cb3ee28.chunk.js"
   },
   {
     "revision": "f032203ca460334c00de541c30a6078a",
-    "url": "/static/js/2.faafbc2b.chunk.js.LICENSE"
+    "url": "/static/js/2.5cb3ee28.chunk.js.LICENSE"
   },
   {
-    "revision": "cd74cf07dc3c8bda9274",
-    "url": "/static/js/main.022c02ef.chunk.js"
+    "revision": "22452650e0b12183c239",
+    "url": "/static/js/main.d3d6eb45.chunk.js"
   },
   {
     "revision": "c5d0a3710c65c384b7dd",
@@ -58,6 +58,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b23df1712f17637ba6c6e957d5c238b8",
     "url": "/static/media/Pastillitas.b23df171.jpg"
+  },
+  {
+    "revision": "1ab64fb12df8c853e3fe13bdea404a34",
+    "url": "/static/media/REDESBlack-04.1ab64fb1.png"
+  },
+  {
+    "revision": "b1ed2c7147351f9e5a3cc05601c28238",
+    "url": "/static/media/REDESNegro-01.b1ed2c71.png"
+  },
+  {
+    "revision": "f3ca611896b39dbca9f7d22d11bae66e",
+    "url": "/static/media/REDESNegro-02.f3ca6118.png"
   },
   {
     "revision": "341de12fd92d1a157edc2fa95d2e064e",
