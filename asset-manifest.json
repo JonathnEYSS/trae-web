@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.3c519fe0.chunk.css",
-    "main.js": "/static/js/main.4d9d47e8.chunk.js",
-    "main.js.map": "/static/js/main.4d9d47e8.chunk.js.map",
+    "main.js": "/static/js/main.b3bcb7ed.chunk.js",
+    "main.js.map": "/static/js/main.b3bcb7ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec92ac63.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec92ac63.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.b9216129.chunk.js": "/static/js/2.b9216129.chunk.js",
-    "static/js/2.b9216129.chunk.js.map": "/static/js/2.b9216129.chunk.js.map",
+    "static/js/2.46644346.chunk.js": "/static/js/2.46644346.chunk.js",
+    "static/js/2.46644346.chunk.js.map": "/static/js/2.46644346.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c2f1af671dfe5c82498c5992c4f9be76.js": "/precache-manifest.c2f1af671dfe5c82498c5992c4f9be76.js",
+    "precache-manifest.55d8ff4b5b82c1d2c8b14b94d2bf26cf.js": "/precache-manifest.55d8ff4b5b82c1d2c8b14b94d2bf26cf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.3c519fe0.chunk.css.map": "/static/css/main.3c519fe0.chunk.css.map",
-    "static/js/2.b9216129.chunk.js.LICENSE": "/static/js/2.b9216129.chunk.js.LICENSE",
+    "static/js/2.46644346.chunk.js.LICENSE": "/static/js/2.46644346.chunk.js.LICENSE",
     "static/media/AALiteracyTeacher.png": "/static/media/AALiteracyTeacher.cb067ab2.png",
     "static/media/AAWaterPump.png": "/static/media/AAWaterPump.999a95b3.png",
     "static/media/App.scss": "/static/media/skills.94b9d5a7.jpg",
@@ -24,6 +24,7 @@
     "static/media/certificate.jpg": "/static/media/certificate.db9676ea.jpg",
     "static/media/circle.png": "/static/media/circle.b8a21423.png",
     "static/media/estrellita.png": "/static/media/estrellita.4e95d2c1.png",
+    "static/media/linkedin-01.png": "/static/media/linkedin-01.a689dfd9.png",
     "static/media/logo.png": "/static/media/logo.17a82342.png",
     "static/media/pagina.png": "/static/media/pagina.8a838773.png",
     "static/media/sellito-01.png": "/static/media/sellito-01.807fd1e7.png",
@@ -40,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec92ac63.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.b9216129.chunk.js",
+    "static/js/2.46644346.chunk.js",
     "static/css/main.3c519fe0.chunk.css",
-    "static/js/main.4d9d47e8.chunk.js"
+    "static/js/main.b3bcb7ed.chunk.js"
   ]
 }
